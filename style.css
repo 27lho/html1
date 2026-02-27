@@ -1,0 +1,43 @@
+<style>
+body {
+background-color: #29124D;
+}
+
+p {
+font-family: Monospace;
+font-size: 20px;
+color: black;
+text-align: center;
+}
+
+h1 {
+font-family: Monospace;
+color: black;
+text-align: center;
+}
+
+.box-1 {
+width: 300px;
+height: 150px;
+background-color: purple;
+border: 5px solid white;
+padding: 40px;
+margin: 0 auto;
+width: 50%;
+font-family: monospace;
+color: white;
+}
+a {
+color: black;
+font-family: monospace;
+}
+
+.container {
+height: 500 px;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+</style>
